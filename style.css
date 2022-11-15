@@ -1,0 +1,18 @@
+body {
+  margin-left: auto;
+}
+.gelombang {
+  margin: -33px;
+  margin-bottom: -64px;
+}
+#project {
+  background-color: #e2edff;
+}
+#contact.container {
+  display: flex;
+  justify-content: center;
+}
+footer {
+  background-color: #8bad3a;
+  min-height: 100px;
+}
